@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="backgroundMonth">#f20c4e</color>
+    <color name="color_press_button">#1f42f0</color>
+</resources>

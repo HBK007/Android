@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:id="@+id/top_control_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#cccccc">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="29-04-2015"
+            android:gravity="center_horizontal"
+            android:textColor="#1f42f0"
+            android:id="@+id/txt_show_time"
+            android:textSize="20dp" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bottom_control_bar"
+        android:background="@color/colorPrimary"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Total:"
+            android:id="@+id/txt_total"
+            android:textSize="20dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0.00"
+            android:id="@+id/txt_amount_total"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:gravity="left"
+            android:textSize="20dp" />
+    </RelativeLayout>
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/lv_report_detail"
+        android:layout_below="@+id/top_control_bar"
+        android:layout_above="@+id/bottom_control_bar">
+    </ListView>
+</RelativeLayout>

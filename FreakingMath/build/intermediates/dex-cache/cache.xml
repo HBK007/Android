@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nguyen Duc Hai\.android\build-cache\0c27a875819d804fa6fcf40adf99aa81334d9a6f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="E:\Developer\Workspaces\Android\FreakingMath\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66f3cff28843f27260b48424af469efc84ad51be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nguyen Duc Hai\.android\build-cache\0eef9631edee02e94a55433d8eebaa2b473c6596\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="E:\Developer\Workspaces\Android\FreakingMath\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07cf04399c2f1022ea2ca401c3cc7827f24394e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nguyen Duc Hai\.android\build-cache\57ad80c879e5d72c366363e06c959d365ef67545\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="E:\Developer\Workspaces\Android\FreakingMath\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a847aff3f1a98f1cc0a1ef7fd97c0a11dff5fc03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nguyen Duc Hai\.android\build-cache\a56ee05d27848af8f4d909da5e56550d7c9efe05\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="E:\Developer\Workspaces\Android\FreakingMath\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dcdcc83a2a44166cff554c00f405df9211540cec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nguyen Duc Hai\.android\build-cache\29b181178b63e6fdf20d581d04d28f2f233773f1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="E:\Developer\Workspaces\Android\FreakingMath\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3cec2318fd537cd407d5f3a296e865cb25e3aa6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Developer\Workspaces\Android\FreakingMath\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\Developer\Workspaces\Android\FreakingMath\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b7fb20707f6a705b1558562c537214cffc675b69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nguyen Duc Hai\.android\build-cache\8d3169fa5c1f5949e94d792643e11b84b3f8bcaa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="E:\Developer\Workspaces\Android\FreakingMath\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36bafe4489a411e3a078144bef8f1922a75b7164\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Developer\Tools\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="E:\Developer\Workspaces\Android\FreakingMath\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_911c01024170b3cafbc34e20659ea953d36be4ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nguyen Duc Hai\.android\build-cache\1bb4bb985ba885bc6b4de3d0fe14f884bdbb5a7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="E:\Developer\Workspaces\Android\FreakingMath\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9df4712c2df0f92335d3fcecd7e3ae71dd1213dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nguyen Duc Hai\.android\build-cache\30a054d0ef7726d34eae0ffc08afcb308435fffa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Developer\Workspaces\Android\FreakingMath\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05e0e1bb7926b4beaafe7cb506affc8c9adfe5af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Developer\Workspaces\Android\FreakingMath\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fac81894a54f89917fbb7be5a57893d8c69ad13">
+        <dex dex="E:\Developer\Workspaces\Android\FreakingMath\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0857572823c53a70961e8a056457ee831dd2d2a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nguyen Duc Hai\.android\build-cache\9214e811ff42de3d81dfb75c7eb3c4f75fae41e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="E:\Developer\Workspaces\Android\FreakingMath\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f31d55293ed2fd670f1726518d69fc9018fd4e60\classes.dex" />
+    </item>
+
+</items>

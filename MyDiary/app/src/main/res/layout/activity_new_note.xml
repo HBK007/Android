@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/colorMyToolbar"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme" />
+
+    <ImageView
+        android:id="@+id/img_attach"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_below="@+id/my_toolbar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:visibility="gone"
+        app:srcCompat="@drawable/img_not_available" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/img_attach"
+        android:layout_alignStart="@+id/img_attach"
+        android:layout_below="@+id/img_attach"
+        android:layout_marginTop="20dp"
+        android:text="Title"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/edt_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_toEndOf="@+id/textView"
+        android:layout_toRightOf="@+id/textView"
+        android:ems="10"
+        android:hint="Note title"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/edt_content"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignEnd="@+id/edt_title"
+        android:layout_alignLeft="@+id/textView"
+        android:layout_alignRight="@+id/edt_title"
+        android:layout_alignStart="@+id/textView"
+        android:layout_below="@+id/edt_title"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:gravity="top"
+        android:hint="Content of note"
+        android:inputType="textPersonName" />
+</RelativeLayout>

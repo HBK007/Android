@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_report" android:icon="@drawable/ic_report"
+            android:title="Report" />
+        <item android:id="@+id/nav_calculator" android:icon="@drawable/ic_calculator"
+            android:title="Calculator" />
+        <item android:id="@+id/nav_graph_view" android:icon="@drawable/ic_graph"
+            android:title="Graph View" />
+        <item android:id="@+id/nav_search" android:icon="@drawable/ic_search"
+            android:title="Search" />
+        <item android:id="@+id/nav_help" android:icon="@drawable/ic_help"
+            android:title="Help"/>
+        <item android:id="@+id/nav_setting" android:icon="@drawable/ic_setting"
+            android:title="Setting"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@android:drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

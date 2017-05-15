@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Developer\\Workspaces\\Android\\FreakingMath\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wrong.png",
+        "source": "E:\\Developer\\Workspaces\\Android\\FreakingMath\\app\\src\\main\\res\\drawable-mdpi\\ic_wrong.png"
+    },
+    {
+        "merged": "E:\\Developer\\Workspaces\\Android\\FreakingMath\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_play.png",
+        "source": "E:\\Developer\\Workspaces\\Android\\FreakingMath\\app\\src\\main\\res\\drawable-mdpi\\ic_play.png"
+    },
+    {
+        "merged": "E:\\Developer\\Workspaces\\Android\\FreakingMath\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_check.png",
+        "source": "E:\\Developer\\Workspaces\\Android\\FreakingMath\\app\\src\\main\\res\\drawable-mdpi\\ic_check.png"
+    }
+]

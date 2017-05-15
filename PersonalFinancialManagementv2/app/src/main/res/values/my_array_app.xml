@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="icon_income">
+        <item>@drawable/ic_salary</item>
+        <item>@drawable/ic_economize1</item>
+        <item>@drawable/ic_economize</item>
+        <item>@drawable/ic_sell</item>
+    </string-array>
+
+    <string-array name="title_income">
+        <item>Lương</item>
+        <item>Tiết kiệm</item>
+        <item>Bán</item>
+        <item>Lợi nhuận</item>
+    </string-array>
+
+    <string-array name="icon_expense">
+        <item>@drawable/ic_gift</item>
+        <item>@drawable/ic_fuel</item>
+        <item>@drawable/ic_shopping1</item>
+        <item>@drawable/ic_airplane</item>
+        <item>@drawable/ic_eat</item>
+    </string-array>
+
+    <string-array name="title_expense">
+        <item>Quà</item>
+        <item>Nhiên Liệu</item>
+        <item>Mua sắm</item>
+        <item>Du lịch</item>
+        <item>Ăn uống</item>
+    </string-array>
+
+    <string name="edit_item"> Edit</string>
+    <string name="delete_item">Delete</string>
+    <string name="up_item">Up</string>
+    <string name="down_item">Down</string>
+
+</resources>
